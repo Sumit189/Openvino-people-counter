@@ -1,3 +1,10 @@
+# Model Used
+Prebuilt model person-detection-retail-0013 is used in this project and this model is from FP32 because we are running the infernce on CPU.
+The model is downloaded using the openvino downloader python file.
+# Use Cases of the project
+* It can used to solve the problem of lack of supplied for the number of the customers in the shop.
+* Crowd management.
+
 # Deploy a People Counter App at the Edge
 
 | Details            |              |
